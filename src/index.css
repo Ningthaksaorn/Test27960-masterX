@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@font-face {
+    font-family: 'KunlasatriRegular' ;
+    src: "./react-web-fonts/fonts/Kunlasatri.eot";
+    src: url('./react-web-fonts/fonts/Kunlasatri.eot') format('embedded-opentype'),
+         url('./react-web-fonts/fonts/Kunlasatri.woff') format('woff'),
+         url('./react-web-fonts/fonts/Kunlasatri.ttf') format('truetype'),
+}

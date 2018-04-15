@@ -1,0 +1,40 @@
+.login {
+  background-image: url('./components/image/7.jpg');
+  background-repeat : repeat-y;
+  position: relative;
+  height: 80vh;
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+  padding: 15px;
+  align: center;
+  /*z-index: -10;*/
+}
+.body {
+    color: black;
+}
+
+.center {
+  align: center;
+}
+.bg {
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    background-color: lightblue;
+    opacity: 0.6;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
